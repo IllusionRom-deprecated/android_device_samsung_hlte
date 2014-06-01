@@ -6,16 +6,14 @@
     "revision":    "cm-11.0"
   },
   {
-    "remote":     "gh",
+    "remote":     "ill",
     "repository": "android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common",
-    "revision":    "cm-11.0"
+    "revision":    "hlte"
   },
   {
-    "remote":     "gh",
-    "repository": "android_device_samsung_msm8967-common",
-    "target_path": "device/samsung/msm8960-common",
-    "revision":    "cm-11.0"
+    "repository": "CyanogenMod/android_device_samsung_msm8974-common",
+    "target_path": "device/samsung/msm8974-common"
   },
   {
     "repository": "android_device_samsung_hlte",
