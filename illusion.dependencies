@@ -6,12 +6,16 @@
     "revision":    "cm-11.0"
   },
   {
+    "remote":     "gh",
     "repository": "android_device_samsung_qcom-common",
-    "target_path": "device/samsung/qcom-common"
+    "target_path": "device/samsung/qcom-common",
+    "revision":    "cm-11.0"
   },
   {
-    "repository": "android_device_samsung_msm8960-common",
-    "target_path": "device/samsung/msm8960-common"
+    "remote":     "gh",
+    "repository": "android_device_samsung_msm8967-common",
+    "target_path": "device/samsung/msm8960-common",
+    "revision":    "cm-11.0"
   },
   {
     "repository": "android_device_samsung_hlte",
